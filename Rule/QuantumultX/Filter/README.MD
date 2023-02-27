@@ -4,4 +4,4 @@
 
 **[FILTER-REGION](https://raw.githubusercontent.com/Centralmatrix3/Collectmatrix/Master/Rule/QuantumultX/Filter/FILTER-REGION.list)**
 
-**更新时间:2023.02.27 00:47**
+**更新时间:2023.02.27 14:15**
